@@ -39,7 +39,7 @@ class LoggedInPage extends React.Component {
             </div>
         );
     }
-};
+}
 
 const mapStateToProps = (state) => {
     return {
